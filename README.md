@@ -2,8 +2,8 @@
 
 Basic algos in python.
 
-Sort:
+Sort: Merge sort
 
-dynamic programming: LCS, Matrix Multiplication, Knapsack
+Dynamic Programming: LCS, Matrix Multiplication, Knapsack
 
 Convext hull problem
