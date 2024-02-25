@@ -6,4 +6,4 @@ Sort: Merge sort
 
 Dynamic Programming: LCS, Matrix Multiplication, Knapsack
 
-Convext hull problem
+Convex hull problem
